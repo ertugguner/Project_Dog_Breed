@@ -2,7 +2,7 @@
 Dog Breed Classificaiton
 
 # Muilti-Class Dog Breed Classification: Project Overview
-- Create an end-to-end multi-class image classifier using Machine Learning
+- Creating an end-to-end multi-class image classifier using Machine Learning.
 - The data I'am using is from Kaggle's dog breed identification competition.
 https://www.kaggle.com/c/dog-breed-identification/data
 - I completed this project with what I learned from this course:
